@@ -47,3 +47,6 @@ Importando as texturas para o projeto
 <p>Personagem da store com física e colisões diferentes das bolas</p>
 
 ![fisicaL](https://github.com/GabrielGaudi/ProjetoUnity/assets/162371856/9fdc6c16-71bf-45ae-88d2-5a37abe0f166)
+
+
+
