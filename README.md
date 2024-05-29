@@ -50,3 +50,11 @@ Importando as texturas para o projeto
 
 
 
+
+https://github.com/GabrielGaudi/ProjetoUnity/assets/162371856/118dc756-46bb-401a-b916-ed6c90c12884
+
+
+
+https://github.com/GabrielGaudi/ProjetoUnity/assets/162371856/304b44c7-7cf1-4aa5-8430-2d0f0369043a
+
+
