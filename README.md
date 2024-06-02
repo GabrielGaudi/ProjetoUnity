@@ -121,7 +121,7 @@ Começando pelo mais fácil iremos fazer primeiro as bolinhas. Para elas será n
 No RigidBody vai ter uma aba com as configurações do corpo, é muito importante que a opção “Use Gravity” esteja marcada para a bolinha, isso define que a gravidade atue na bolinha, e também é bem importante mudar a “mass” de 1 para 50.000, assim a bolinha terá mais peso na hora de cair e quicar. Também é necessário mudar o “Drag” para 0 e o “Angular drag” para 0.05
 </p>
 
-
+![1_6wFuElMJqG0bR4nYHM2D9Q.png](https://github.com/GabrielGaudi/ProjetoUnity/assets/105759351/d273d1ca-3a74-42a4-9893-81a509a3523a)
 
 <p>
   Após isso precisaremos criar um material físico para aplicar na bolinha, para isso devemos ir na aba “create” no canto superior esquerdo e depois ir em “Physic Material” , depois podemos dar um nome ao objeto e também devemos configurar esse material.
