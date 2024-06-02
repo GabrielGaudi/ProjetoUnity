@@ -11,7 +11,7 @@
   Observe na imagem abaixo o objeto na cena.
 </p>
 
-
+![Screenshot_20240601_184646_YouTube.jpg](https://github.com/GabrielGaudi/ProjetoUnity/assets/105759351/5a81a8dc-c20b-4d99-97d6-f6df0d5681cc)
 
 <p>
   Depois vamos às proporções do objeto para fazer ele parecer mais um chão. Indo na aba “Transform”, localizada no canto          superior direito, e mudando o X, Y e Z na Scale mudamos o tamanho do objeto.
