@@ -159,9 +159,15 @@ Já no unity ele deve abrir o “Package manager” já no seu pacote de assets 
 </p>
 
 
+<p>Adicionando assets de pedras com física própria</p>
+
+![image](https://github.com/GabrielGaudi/ProjetoUnity/assets/162371856/a6c871c7-4c89-4501-8ae5-3ebf051061fd)
+
 <p>
   Agora já com as pedrinhas baixadas e importadas para o projeto se deve escolher algumas delas e arrastar até a cena, colocando diversas pedrinhas em diferentes locais do chão da cena. Também é necessário colocar física nas pedrinhas, colocando o “RigidBody” e dessa vez não marcando a opção “Use Gravity”, também colocando um “Psychic Material” onde tudo pode ser padrão mais o “Bounciness” tem que ser 1 pra bolinha poder quicar nas pedras.
 </p>
+
+![fisicapedras](https://github.com/GabrielGaudi/ProjetoUnity/assets/162371856/908757eb-7ded-4f9c-9dba-d667f9033531)
 
 <hr>
 
@@ -183,16 +189,6 @@ Podemos fazer o mesmo processo para o chão também criando um material para ele
 <p>
   Para isso precisamos baixar e importar o pacote com os dummys e arrastar eles até a cena. Depois devemos criar um “Psychic Material” onde vamos deixar tudo padrão, depois precisamos colocar o “Rigid Body” com “mass” de 5000, drag 0, angular drag de 0,05 e com o “Use Gravity” marcado.
 </p>
-
-
-
-<p>Adicionando assets de pedras com física própria</p>
-
-![image](https://github.com/GabrielGaudi/ProjetoUnity/assets/162371856/a6c871c7-4c89-4501-8ae5-3ebf051061fd)
-
-<p>No Unity:</p>
-
-![fisicapedras](https://github.com/GabrielGaudi/ProjetoUnity/assets/162371856/908757eb-7ded-4f9c-9dba-d667f9033531)
 
 <p>Personagem da store com física e colisões diferentes das bolas</p>
 
