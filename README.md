@@ -1,4 +1,12 @@
 # ProjetoUnity
+<h1>Nomes dos Alunos <br>
+Bruno Queiroz Plata <br>
+Gabriel Gaudí Pozzi Rosalvo
+</h1>
+
+<h2>Link do OneDrive: </h2>
+<hr>
+
 <h1>Criando as Bases</h1>
   <p>
     Primeiramente após criarmos o projeto iremos aparecer numa tela vazia, sem nenhum objeto ainda.
