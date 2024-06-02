@@ -17,6 +17,8 @@
   Depois vamos às proporções do objeto para fazer ele parecer mais um chão. Indo na aba “Transform”, localizada no canto          superior direito, e mudando o X, Y e Z na Scale mudamos o tamanho do objeto.
 </p>
 
+![20240601_185038.jpg](https://github.com/GabrielGaudi/ProjetoUnity/assets/105759351/664dfa5c-e6bd-4c39-9608-bf93510d51c5)
+
 
 <p>
   Esse deve ser o seu resultado após mudar as propriedades do cubo ou escolher o objeto “plane” e aumentar seu tamanho.
