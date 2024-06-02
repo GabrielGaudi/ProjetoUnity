@@ -24,11 +24,13 @@
   Esse deve ser o seu resultado após mudar as propriedades do cubo ou escolher o objeto “plane” e aumentar seu tamanho.
 </p>
 
+![Screenshot_20240601_185503_YouTube.jpg](https://github.com/GabrielGaudi/ProjetoUnity/assets/105759351/95f0351d-4bce-4aff-a3d8-c987e76ca990)
 
 <p>
   Agora já com um chão devemos colocar as paredes do labirinto, para isso iremos no “GameObject” novamente, depois vamos clicar em “3dObject” e escolher o “cube” novamente.
 </p>
 
+![Screenshot_20240601_185513_YouTube.jpg](https://github.com/GabrielGaudi/ProjetoUnity/assets/105759351/0804e102-0525-4c98-a2f7-8f7d22bd3458)
 
 <p>
   Vamos mudar as propriedades desse cubo para que ele se torne as paredes finais do nosso labirinto, ou seja, paredes mais longas que cubram todo comprimento do labirinto, em formato de cubo no nosso caso. Em seguida crie outro cubo e mudando as propriedades faça uma parede de proporções normais para o labirinto.
