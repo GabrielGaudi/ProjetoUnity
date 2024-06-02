@@ -11,6 +11,7 @@
 </p>
 
 
+
 <p>
   Depois vamos às proporções do objeto para fazer ele parecer mais um chão. Indo na aba “Transform”, localizada no canto          superior direito, e mudando o X, Y e Z na Scale mudamos o tamanho do objeto.
 </p>
@@ -176,7 +177,7 @@ Podemos fazer o mesmo processo para o chão também criando um material para ele
 ![fisicaL](https://github.com/GabrielGaudi/ProjetoUnity/assets/162371856/9fdc6c16-71bf-45ae-88d2-5a37abe0f166)
 
 
-<h4>Esse deve ser o resultado final</h4>
+<h4>Esse deve ser o resultado final:</h4>
 
 https://github.com/GabrielGaudi/ProjetoUnity/assets/162371856/118dc756-46bb-401a-b916-ed6c90c12884
 
