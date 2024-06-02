@@ -134,6 +134,19 @@ Após isso é só pegar o material criado e arrastar até o objeto. Faça o mesm
 
 ![1_85Gj9FJ7LHdfNQhW9QsAGg.png](https://github.com/GabrielGaudi/ProjetoUnity/assets/105759351/79cca730-3502-4f2d-b7b8-c7a0d8b1fb51)
 
+<p>
+Também é necessário adicionar um material às bolinhas que no caso nos iremos baixar da Asset store
+</p>
+
+<p>
+Em seguida devemos criar um material para a bola e colocar esse material com a textura na bola
+</p>
+
+
+![image](https://github.com/GabrielGaudi/ProjetoUnity/assets/162371856/d01b68c9-96bd-4c99-98ee-f9dd7146fcaa)
+<p>Textura para a bola</p>
+
+
 <hr>
 
 <h2>Adicionando Física as pedras</h2>
@@ -171,8 +184,7 @@ Podemos fazer o mesmo processo para o chão também criando um material para ele
   Para isso precisamos baixar e importar o pacote com os dummys e arrastar eles até a cena. Depois devemos criar um “Psychic Material” onde vamos deixar tudo padrão, depois precisamos colocar o “Rigid Body” com “mass” de 5000, drag 0, angular drag de 0,05 e com o “Use Gravity” marcado.
 </p>
 
-![image](https://github.com/GabrielGaudi/ProjetoUnity/assets/162371856/d01b68c9-96bd-4c99-98ee-f9dd7146fcaa)
-<p>Textura para a bola</p>
+
 
 <p>Adicionando assets de pedras com física própria</p>
 
