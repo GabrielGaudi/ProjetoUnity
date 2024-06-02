@@ -132,6 +132,8 @@ Você pode fazer assim “Dynamic Friction” no 0.5, “Static friction” no 0
 Após isso é só pegar o material criado e arrastar até o objeto. Faça o mesmo processo nas duas bolinhas.
 </p>
 
+![1_85Gj9FJ7LHdfNQhW9QsAGg.png](https://github.com/GabrielGaudi/ProjetoUnity/assets/105759351/79cca730-3502-4f2d-b7b8-c7a0d8b1fb51)
+
 <hr>
 
 <h2>Adicionando Física as pedras</h2>
