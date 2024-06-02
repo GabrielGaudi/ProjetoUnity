@@ -64,12 +64,14 @@ Exemplo:
 Em seguida, devemos clicar em “assets” e depois em “create” e escolher “material”. Deve aparecer um “material” vazio nos assets do seu projeto, clique no “material” e dê um nome a ele.
 </p>
 
+![criando_material.png](https://github.com/GabrielGaudi/ProjetoUnity/assets/105759351/6927094d-f18a-4b84-91f4-3459f06d2216)
 
 <p>
   Já no “material” devemos clicar no pontinho ao lado do nome “albedo”.
 Imagem Exemplo:
 </p>
 
+![hOqgJ.png](https://github.com/GabrielGaudi/ProjetoUnity/assets/105759351/9add446e-5151-4355-885a-c262520b817f)
 
 <p>
   Clicando na bolinha ao lado de Albedo irá abrir uma janela com todas as imagens do seu projeto, clique na imagem escolhida e pronto. O material já estará pronto para uso nos objetos da cena.
