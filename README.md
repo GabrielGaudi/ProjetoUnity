@@ -1,5 +1,5 @@
 # ProjetoUnity
-<h1>Nomes dos Alunos <br>
+<h1>Nomes dos Alunos: <br>
 Bruno Queiroz Plata <br>
 Gabriel Gaudí Pozzi Rosalvo
 </h1>
