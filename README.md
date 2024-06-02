@@ -80,6 +80,7 @@ Adendo importante que no material você pode mudar algumas propriedades, assim p
 Também se pode mudar o tiling e o offset eles no geral mudam quantas vezes a sua imagem vai se repetir no eixo X e Y.
 </p>
 
+![808f0eb9ca99725c1ceab02d1b31c09a.png](https://github.com/GabrielGaudi/ProjetoUnity/assets/105759351/d43527ac-dbce-4d7f-b427-9152c1283d27)
 
 <p>
   Em seguida é só clicar no “material” e arrastar até o objeto no nosso caso as paredes. Faça o mesmo processo para o chão
