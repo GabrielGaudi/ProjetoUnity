@@ -4,6 +4,7 @@
     Primeiramente após criarmos o projeto iremos aparecer numa tela vazia, sem nenhum objeto ainda.
   </p>
 
+![Screenshot_20240601_184605_YouTube.jpg](https://github.com/GabrielGaudi/ProjetoUnity/assets/105759351/099d91e0-3ad5-4f70-9fc2-d54590206381)
 
 <p>
   devemos adicionar um objeto 3d para isso iremos clicar em “GameObject” depois vamos clicar em “3dObject” isso irá abrir uma     aba com diversos objetos 3d, devemos escolher o  objeto “cube”. Você também pode escolher o objeto “plane” e aumentar o         tamanho dele.
