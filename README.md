@@ -205,10 +205,4 @@ Podemos fazer o mesmo processo para o chão também criando um material para ele
 
 <h4>Esse deve ser o resultado final:</h4>
 
-https://github.com/GabrielGaudi/ProjetoUnity/assets/162371856/118dc756-46bb-401a-b916-ed6c90c12884
-
-
-
-https://github.com/GabrielGaudi/ProjetoUnity/assets/162371856/304b44c7-7cf1-4aa5-8430-2d0f0369043a
-
-
+https://github.com/GabrielGaudi/ProjetoUnity/assets/162371856/92990a10-f72c-4e56-97a1-c868e3ac8b4d
