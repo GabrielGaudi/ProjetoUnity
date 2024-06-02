@@ -4,6 +4,8 @@ Bruno Queiroz Plata <br>
 Gabriel Gaudí Pozzi Rosalvo
 </h1>
 
+
+
 <h2>Link do OneDrive: </h2>
 <hr>
 
@@ -126,7 +128,7 @@ Começando pelo mais fácil iremos fazer primeiro as bolinhas. Para elas será n
 
 <p>
   Para adicionar a física às bolinhas devemos clicar em uma delas depois ir em “add new component” e adicionar o “RigidBody” esse componente que fará a bolinha sofrer os efeitos da gravidade.
-No RigidBody vai ter uma aba com as configurações do corpo, é muito importante que a opção “Use Gravity” esteja marcada para a bolinha, isso define que a gravidade atue na bolinha, e também é bem importante mudar a “mass” de 1 para 50.000, assim a bolinha terá mais peso na hora de cair e quicar. Também é necessário mudar o “Drag” para 0 e o “Angular drag” para 0.05
+No RigidBody vai ter uma aba com as configurações do corpo, é muito importante que a opção “Use Gravity” esteja marcada para a bolinha, isso define que a gravidade atue na bolinha, e também é bem importante mudar a “mass” de 1 para 50.000, assim a bolinha terá mais peso na hora de cair e quicar. Também é necessário mudar o “Drag” para 0, o Drag baixo faz as bolinhas não desacelerarem em contato com outros objetos, e o “Angular drag” para 0.05
 </p>
 
 ![1_6wFuElMJqG0bR4nYHM2D9Q.png](https://github.com/GabrielGaudi/ProjetoUnity/assets/105759351/d273d1ca-3a74-42a4-9893-81a509a3523a)
@@ -135,7 +137,7 @@ No RigidBody vai ter uma aba com as configurações do corpo, é muito important
   Após isso precisaremos criar um material físico para aplicar na bolinha, para isso devemos ir na aba “create” no canto superior esquerdo e depois ir em “Physic Material” , depois podemos dar um nome ao objeto e também devemos configurar esse material.
 
 
-Você pode fazer assim “Dynamic Friction” no 0.5, “Static friction” no 0.5 e o “bounciness” em 1, esse último é o mais importante pois vai dar a elasticidade a bolinha assim fazendo ela quicar. De resto o “Friction Combine” você pode deixar o padrão “Average“ ou mudar para “Minumium”. Já o “Bounce Combine” é preciso mudar para “Multiply” assim a bolinha vai quicar mais.
+Você pode fazer assim “Dynamic Friction” no 0.5, “Static friction” no 0.5 e o “bounciness” em 1, esse último é o mais importante pois vai dar a elasticidade a bolinha assim fazendo ela quicar. De resto o “Friction Combine” você pode deixar o padrão “Average“ ou mudar para “Minumium”, isso é necessário para que a bolinha não desacelere com a fricção nos objetos. Já o “Bounce Combine” é preciso mudar para “Multiply” assim a bolinha vai quicar o máximo possivel.
 <br>
 Após isso é só pegar o material criado e arrastar até o objeto. Faça o mesmo processo nas duas bolinhas.
 </p>
