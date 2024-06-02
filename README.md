@@ -4,7 +4,7 @@ Bruno Queiroz Plata <br>
 Gabriel Gaudí Pozzi Rosalvo
 </h1>
 
-
+![IMG-20240602-WA0007.jpg](https://github.com/GabrielGaudi/ProjetoUnity/assets/105759351/8a2edae3-efa0-4daf-80fb-41487cdd8051)
 
 <h2>Link do OneDrive: </h2>
 <hr>
